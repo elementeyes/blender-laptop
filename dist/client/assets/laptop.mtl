@@ -1,0 +1,23 @@
+# Blender MTL File: 'laptop.blend'
+# Material Count: 2
+
+newmtl Material
+Kd 0.8 0.8 0.8
+d 1
+Ka 1 1 1
+Ks 0.5019607843137255 0.5019607843137255 0.5019607843137255
+Ns 323.999994
+map_Kd Screenshot_1.png
+newmtl Material.002
+Kd 0.8 0.8 0.8
+d 1
+Ka 1 1 1
+Ks 0.5019607843137255 0.5019607843137255 0.5019607843137255
+Ns 225
+map_Kd Screenshot_2.png
+newmtl None
+Kd 0.8 0.8 0.8
+d 1
+Ka 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+Ns 500
